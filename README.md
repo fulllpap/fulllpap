@@ -1,4 +1,4 @@
- @fulllpap, mon compte Github pour Full (Ex IbizaSoftware)
+ @fulllpap, mon compte Github pour Fulll (Ex IbizaSoftware)
 - 📫 How to reach me ...  Slack only for now
 - Linkedin : https://www.linkedin.com/in/spapillon/
 
