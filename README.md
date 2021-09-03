@@ -1,5 +1,5 @@
  @fulllpap, mon compte Github pour Fulll (Ex IbizaSoftware)
-- 📫 How to reach me ...  fulll.slack.com only for now // slack username : spapillon
+- 📫 How to reach me ...  fulll.slack.com only for now // slack username : Stephane Papillon
 - Linkedin : https://www.linkedin.com/in/spapillon/
 
 <!---
